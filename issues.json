@@ -1,0 +1,21 @@
+[
+    
+    {
+        "id": 1,
+        "title": "Login button not working on mobile",
+        "description": "Users on iOS 17 cannot tap the login button",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 1,
+        "message": "[URGENT] Login button not working on mobile \u2014 needs immediate attention"
+    },
+    {
+        "id": 2,
+        "title": "windows key not working",
+        "description": "windows key not working",
+        "status": "open",
+        "priority": "low",
+        "reporter_id": 1,
+        "message": "windows key not working \u2014 low priority, handle when free"
+    }
+]
